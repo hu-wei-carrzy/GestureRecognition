@@ -36,6 +36,7 @@ def Handle(hand_landmarks, mp_hands):
     handIntime = time.time()
 
     # print("nowStart",nowStart)
+    # local test
 
     # 起始手势判定
     if nowStart == '':
